@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-remark-embed-codesandbox",
+  "name": "@johnlindquist/gatsby-remark-embed-codesandbox",
   "version": "0.0.1",
   "main": "index.js",
   "author": "John Lindquist",
